@@ -95,13 +95,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrhasan1314&show_icons=true&theme=tokyonight&hide=contribs" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhasan1314&layout=compact&theme=tokyonight" height="160"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=20232a&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrhasan1314&theme=tokyo-night&bg_color=20232a&hide_border=true" />
 </p>
-
 ---
 
 ## 🎓 Education
